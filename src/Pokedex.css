@@ -1,0 +1,18 @@
+.Pokedex {
+    width: 85vw;
+    align-content: center;
+    margin: auto;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    column-gap: 25px;
+    row-gap: 25px;
+}
+
+.header {
+    text-align: center;
+    color: #b0b0b0;
+    font-family: Arial, Helvetica, sans-serif;
+}
