@@ -1,16 +1,18 @@
 .Pokecard {
     background-color: lightgray;
     width: 200px;
-    height: 210px;
+    height: 225px;
     border-radius: 10px;
     margin: 0;
     text-align: center;
+    margin: auto;
+    margin-bottom: 20px;
 }
 
 .name {
     color: blue;
     text-align: center;
-    margin-top: 5px;
+    margin-top: 10px;
     margin-bottom: 5px;
 }
 
